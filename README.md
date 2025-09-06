@@ -34,4 +34,3 @@ Open to remote Junior ML roles (US/EU) · Passionate about building reproducible
 [LinkedIn](https://www.linkedin.com/in/jose-manuel-monje-santos-724a2a382/) · [Kaggle](https://www.kaggle.com/josemanuelmonje) · [GitHub Profile](https://github.com/joserbbmonje-hash)
 
 ---
-docs: enhance profile README with badges and structure
