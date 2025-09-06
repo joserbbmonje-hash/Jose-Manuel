@@ -2,9 +2,9 @@
 
 Aspiring **Machine Learning Engineer** building end-to-end ML applications (data → model → demo).
 
-| ![Status](...) | ![Python Version](...) | ![Certificate](...) |
-
-![Confusion Matrix](reports/confusion_matrix.png)
+![Status](https://img.shields.io/badge/status-learning-blue)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![Certificate](https://img.shields.io/badge/IBM%20DS%20Cert%20(in%20progress)-Coursera-blue)
 
 ##  Currently Learning
 - IBM Data Science Professional Certificate (Coursera) — Python, Databases, EDA, ML foundations  
